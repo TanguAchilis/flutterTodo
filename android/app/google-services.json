@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056614083155",
+    "firebase_url": "https://achilis-87354.firebaseio.com",
+    "project_id": "achilis-87354",
+    "storage_bucket": "achilis-87354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056614083155:android:d7442231b5c6b3fcb7b4a6",
+        "android_client_info": {
+          "package_name": "com.achnet.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056614083155-72i4u893sdble655aitm8vb332tsoi5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9FNpiluVlXSo-JM0t1kPMGntbmh33_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056614083155-72i4u893sdble655aitm8vb332tsoi5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
